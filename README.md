@@ -8,4 +8,4 @@
 4. Open the devtools window by right-clicking on the browser screen and clicking on "Inspect". Have "console" window open.
 5. Make sure you are out of the webcam view initially before doing the next step.
 6. Click on the "click me" button on the top left corner of the screen and wait for a few seconds till the song plays.
-7. Come in the webcam view and get your shoulders tracked :)
+7. Come in the webcam view and get your shoulders tracked :) You can monitor the logs in the console window in the devtools.
