@@ -9,3 +9,6 @@
 5. Make sure you are out of the webcam view initially before doing the next step.
 6. Click on the "click me" button on the top left corner of the screen and wait for a few seconds till the song plays.
 7. Come in the webcam view and get your shoulders tracked :) You can monitor the logs in the console window in the devtools.
+
+
+P.s = All code manipulation is in the file "sketch.js"
